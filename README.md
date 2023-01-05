@@ -1,2 +1,3 @@
 # Leetcode_winter
-FISHFISHFISHFISHFISHFISHFISHFISH
+寒假开始未半而开始摸鱼，始于太菜，终于摸鱼。
+
